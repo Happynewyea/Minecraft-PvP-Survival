@@ -1,2 +1,2 @@
-# Minecraft-Survival-PVP
-BETA 0.1.0
+# Minecraft-Survival
+Alpha v0.0.1
